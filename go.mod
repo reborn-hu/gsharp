@@ -1,4 +1,4 @@
-module gsharp
+module github.com/reborn-hu/gsharp
 
 go 1.21
 
